@@ -4,24 +4,12 @@ This repository is intended to help you to improve your skills using katas, disc
 
 Instructions:
 - Each kata will be described in one single folder, containing the instructions of the kata.
-- Create the branch for your solution and open a **PR**.
-- To add your solution you will use `kata_name_your_first_name_and_last_name` under the folder **solutions**. If your solutions is the name is repeated include your `middle name`.
 ```
 /*Example*/
 Root_folder     
-    01_look_and_say    
-      Readme.md     
-      Solutions    
-         look_and_say_marco_dominguez  
-         look_and_say_carlos_perez
+    01_name_kata 
+      Readme.md
+    02_name_other_kata  
 ```
-
-
-Structure:
-```
-Root_folder     
-    Kata_name    
-      Readme.md     
-      Solutions    
-         /*Including all solutions of the members*/
-```
+- Once completed create an issue using `kata_name_your_first_name_and_last_name`. If your solutions is the name is repeated include your `middle name` using the label **solved**.
+- If you want to suggest a new kata open an issue with the label **new**
